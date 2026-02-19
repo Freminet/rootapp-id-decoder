@@ -18,10 +18,10 @@ well let's see:
 
 ## how it works
 
-Root user IDs are publicly visible identifiers (accessible via developer mode) that follow a snowflake-like format with embedded timestamp information. This tool:
+Root user IDs are publicly visible identifiers (accessible via developer mode) that follow a snowflake-like format with embedded timestamp information.
 
-1. Takes a Root user ID as input
-2. Performs mathematical operations to extract the embedded timestamp
-3. Displays the account creation date and age
+1. Take a Root user ID as input
+2. Perform mathematical operations to extract the embedded timestamp
+3. Display the account creation date and age
 
 No data is sent to any server, all calculations happen locally in your browser
